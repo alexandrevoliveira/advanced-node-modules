@@ -1,0 +1,18 @@
+todo list
+node.js
+clean architecture
+design patterns
+docker
+kubernetes
+gcp
+gnu/linux
+c++ w/ algorithms
+todo list
+node.js
+clean architecture
+design patterns
+docker
+kubernetes
+gcp
+gnu/linux
+c++ w/ algorithms
